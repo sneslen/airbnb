@@ -1,5 +1,6 @@
 ,title,name,price,beds,rating,superhost,location,reviews,len_name
 0,Treehouse in Nephi,Fantasy Treehouse and Resort,190,3,4.91,1,Nephi,325,28
+1,Treehouse in Nephi,Fantasy Treehouse and Resort,190,3,4.91,1,Nephi,325,28
 2,Cabin in Fountain Green,"Cozy Private Mountain Cabin on 1,000 acre property",141,4,4.96,1,Fountain Green,77,50
 3,Place to stay in Fountain Green,Luxury Glamping Teepee w/King Bed on private Mtn!,122,2,4.98,1,Fountain Green,42,49
 4,Cabin in Wanship,Cozy Cabin with Hot Tub minutes from Park City,186,2,4.96,1,Wanship,195,46
@@ -12,9 +13,11 @@
 11,Cabin in Park city,"Secluded Hideaway Above Park City, Utah",230,2,4.98,1,Park city,154,39
 12,Farm stay in Ephraim,Wild Acres Farmhouse with Private Hot Tub,120,1,4.97,1,Ephraim,441,41
 13,Tiny home in Vineyard,Cabin Tiny Home on the Lake,405,1,4.74,0,Vineyard,261,27
+14,Cabin in Monroe,Cobblestone Ranch Cabin,1214,3,4.97,1,Monroe,260,23
 15,Place to stay in Fountain Green,Glamping Teepee w/King Bed sleeps 4 w/private pond,739,2,5.0,1,Fountain Green,21,50
 16,Yurt in Hyrum,Monte Cristo Yurt,514,8,4.86,1,Hyrum,160,17
 17,Farm stay in Spanish Fork,"Log Cabin on 17 Acre Farm with backyard ""Playland""",924,7,4.9,0,Spanish Fork,351,50
+18,Cabin in Park city,"Secluded Hideaway Above Park City, Utah",1462,2,4.98,1,Park city,154,39
 19,Tiny home in Cedar City,Hobbit Cottage,539,1,4.97,1,Cedar City,461,14
 20,Guesthouse in Vernal,Cozy Canyon Cabin,346,1,4.91,1,Vernal,440,17
 21,Farm stay in Manila,Cozy guest house on a working farm on Sheep Creek,719,2,4.98,1,Manila,237,49
@@ -27,15 +30,19 @@
 28,Home in Salt Lake City,Fun For The Entire Family! House with pool/hot tub,1802,8,4.72,0,Salt Lake City,57,50
 29,Cabin in Garden City,"Hot Tub, Gorgeous Lake Views, Huge Decks, Updated!",168,5,4.8,1,Garden City,191,50
 30,Guesthouse in Pleasant Grove,The Cozy Place,62,2,4.73,1,Pleasant Grove,66,14
+31,Tiny home in Erda,Cozy Tiny House Cabin on Stilts,79,1,5.0,1,Erda,5,31
 32,Tent in Fountain Green,Glamping Teepee Mtn Escape King Bed & Private Bath,122,2,5.0,1,Fountain Green,12,50
 33,Private room in Provo,Copper Tub Downtown Unique Pioneer Home,34,1,4.85,1,Provo,231,39
+34,Home in Salt Lake City,Fun For The Entire Family! House with pool/hot tub,266,8,4.72,0,Salt Lake City,57,50
 35,Home in Provo,Vintage Spunky Stay in Historic Downtown Provo,66,3,4.97,1,Provo,108,46
 36,Apartment in American Fork,"Large, Private, King & Queen beds,  5 min to I-15.",40,2,4.94,1,American Fork,345,50
 37,Dome in Huntsville,Mini Dome Near Snowbasin,178,2,4.94,1,Huntsville,452,24
 38,Treehouse in Park City,"Dreamy Treehouse Above Park City, Utah",245,1,4.88,1,Park City,581,38
 39,Tent in Hanna,Glamping Tipi w/ private ponds and river access #2,183,3,5.0,1,Hanna,15,50
+40,Cabin in Vineyard,Beautifully-crafted custom Tiny Home on the Lake,68,2,4.56,0,Vineyard,120,48
 41,Tiny home in Pleasant Grove,Mountain Side Tiny House,65,2,5.0,1,Pleasant Grove,171,24
 42,Private room in Orem,Small basement bedroom. Shared bath,30,1,4.0,0,Orem,4,35
+43,Tent in Hanna,Glamping Tipi w/ private ponds and river access #2,183,3,5.0,1,Hanna,15,50
 44,Guest suite in Draper,""" 2 Bedroom Apartment with Spectacular Views""",95,3,5.0,1,Draper,37,45
 45,Yurt in Bryce Canyon,Bryce Canyon UYurt Adventure Rentals-RUST,67,6,4.66,0,Bryce Canyon,491,41
 46,Cottage in Helper,Cozy Farmhouse & Orchard near Helper,89,4,4.92,1,Helper,24,36
@@ -44,6 +51,7 @@
 49,Private room in Orem,Clean Private Room 3 bed/1 bath shared common area,46,3,4.8,1,Orem,5,50
 50,Private room in American Fork,Private room-Sundance,31,1,4.85,1,American Fork,39,21
 51,Vacation home in Mapleton,"Brand New, Spacious & Modern Apt",79,3,5.0,0,Mapleton,6,32
+52,Treehouse in Park City,"Dreamy Treehouse Above Park City, Utah",245,1,4.88,1,Park City,581,38
 53,Cabin in Manila,The Cabin on Main,85,2,4.72,1,Manila,127,17
 54,Cabin in Kamas,Creekside cabin with sauna & park pass,1078,2,4.93,1,Kamas,172,38
 55,Home in Honeyville,Windy Poplars Cottage (near Crystal Hot Springs),618,2,4.86,1,Honeyville,241,48
@@ -61,26 +69,34 @@
 67,Cabin in Hildale,Cabin Retreat in the heart of Zion! Cabin #2,466,1,4.68,1,Hildale,372,44
 68,Private room in Fruitland,LOG CABIN Guest Room -Lost Horse Ranch Utah,348,4,4.77,0,Fruitland,137,43
 69,Campsite in Nephi,Romantic one bedroom private yurt.,696,1,4.82,1,Nephi,11,34
+70,Farm stay in Kanarraville,The Grand Ranch at Zion -Mini animal Farm Stay #1,1431,4,5.0,1,Kanarraville,81,49
 71,Cabin in Garden City,The Boulevard Cabin,622,4,4.96,1,Garden City,138,19
 72,Guesthouse in Spanish Fork,Scenic 3-bedroom plus outdoor cabin and hot tub-,766,6,5.0,1,Spanish Fork,73,48
+73,Cabin in Manila,The Cabin on Main,577,2,4.72,1,Manila,127,17
 74,Farm stay in Eagle Mountain,Chick Inn LUXURIOUS EXPERIENCE & all the extras!!!,1198,1,4.99,1,Eagle Mountain,101,50
 75,Guesthouse in Orem,Entire Apartment,280,1,4.8,1,Orem,296,16
 76,Farm stay in Wellsville,Off Grid Cottage On ALPACA Hobby Farm,524,2,4.91,0,Wellsville,53,37
 77,Home in Bluffdale,Modern home with gorgeous views!,805,4,,0,Bluffdale,,32
+78,Apartment in American Fork,"Large, Private, King & Queen beds,  5 min to I-15.",257,2,4.94,1,American Fork,345,50
+79,Cottage in Sundance,"Cottage On The Stream • Sundance, Utah",1324,1,4.92,1,Sundance,136,38
 80,Private room in Orem,Renovated Private Room,177,1,4.7,1,Orem,54,22
 81,Tiny home in Hurricane,EcoFriendly Cabin!  Zion without the crowds.,2096,1,4.86,1,Hurricane,550,44
 82,Home in Provo,Cute & Close to Campus,89,2,4.91,1,Provo,112,22
+83,Vacation home in Mapleton,"Brand New, Spacious & Modern Apt",79,3,5.0,0,Mapleton,6,32
 84,Cabin in Summit County,Beautiful Oakley Cabin w/ Private Hot Tub & Views!,176,7,4.91,1,Summit County,35,50
 85,Home in Salt Lake City,The Love House,183,1,,0,Salt Lake City,,14
 86,Cabin in Millard County,Lake Stay near West Desert Adventuring,175,5,4.93,0,Millard County,58,38
 87,Home in Provo,Private Room and Amenities with Private Entrance,65,1,5.0,0,Provo,11,48
 88,Apartment in Pleasant Grove,Cozy PG apartment near downtown.,40,1,4.47,0,Pleasant Grove,92,32
 89,Apartment in Orem,"Great unit Near UVU, BYU clean no pets non smoking",68,2,4.86,0,Orem,92,50
+90,Cottage in Sundance,"Cottage On The Stream • Sundance, Utah",195,1,4.92,1,Sundance,136,38
 91,Farm stay in Lindon,Charming Rustic Loft at Wadley Farms,199,1,4.98,1,Lindon,191,36
+92,Farm stay in Kanarraville,The Grand Ranch at Zion -Mini animal Farm Stay #1,201,4,5.0,1,Kanarraville,81,49
 93,Apartment in Draper,Canyon Vista 1bd Suite (C14),82,2,4.91,1,Draper,11,28
 94,Guest suite in Provo,Private Suite just minutes from hiking and skiing,75,1,4.91,0,Provo,11,49
 95,Private room in Sandy,"800+ mbps WiFi, 800+ 5-star reviews, Welcome!",33,1,4.79,1,Sandy,24,45
 96,Cabin in Sundance,Sundance Streamside Cozy Two Bedroom Hot Tub Cabin,1769,2,4.95,1,Sundance,132,50
+97,Tiny home in Pleasant Grove,Mountain Side Tiny House,439,2,5.0,1,Pleasant Grove,171,24
 98,Private room in Mexican Hat,Sentinel Mesa Hogan,719,2,4.65,0,Mexican Hat,538,19
 99,Guesthouse in Syracuse,*Brand New Private Modern Guest Home! 2 queens!*,542,2,5.0,0,Syracuse,16,48
 100,Home in Kanab,Tranquil Adobe Retreat by Quiet Shelters,1327,1,5.0,1,Kanab,179,40
@@ -95,6 +111,7 @@
 109,Home in Monument Valley,Dream Catcher House,1228,3,4.76,1,Monument Valley,345,19
 110,Cabin in Millcreek,Mountainside Cabin with incredible views,100,5,4.75,0,Millcreek,4,40
 111,Barn in Monroe,★RV Hookup & Cozy Loft Cottage Feel 1-2Beds★,48,2,4.99,1,Monroe,70,44
+112,Guesthouse in Pleasant Grove,The Cozy Place,62,2,4.73,1,Pleasant Grove,66,14
 113,Villa in West Jordan,Welcome to this 1 bedroom villa with a heated pool,62,3,4.84,1,West Jordan,70,50
 114,Apartment in Salt Lake City,Garden Basement Apartment,76,2,,1,Salt Lake City,,25
 115,Cabin in Randolph,"Kick your boots off at The
@@ -107,29 +124,46 @@ Crawford Mountain Cabin",160,2,5.0,1,Randolph,13,50
 121,Private room in Provo,Downtown Renovated Room in a One of a Kind Home,33,1,4.73,1,Provo,73,47
 122,Home in Springville,Stylish Boho Home Private backyard,125,8,4.92,1,Springville,179,34
 123,Ranch in Hanna,"Sleep Over the River,  then fish it the next day!",380,3,4.97,1,Hanna,39,49
+124,Farm stay in Wellsville,Off Grid Cottage On ALPACA Hobby Farm,69,2,4.91,0,Wellsville,53,37
+125,Cabin in Kamas,Creekside cabin with sauna & park pass,169,2,4.93,1,Kamas,172,38
 126,Guest suite in Bluffdale,Views & Spa! Beautiful Private Basement & Deck,121,3,4.89,1,Bluffdale,87,46
+127,Guest suite in Provo,"Beautiful Apartment Near Downtown, BYU, & Airport",59,2,4.91,1,Provo,172,49
 128,Guest suite in Bluffdale,Entire Basement Studio Apartment!,60,1,4.85,1,Bluffdale,314,33
+129,Campsite in Nephi,Romantic one bedroom private yurt.,122,1,4.82,1,Nephi,11,34
 130,Private room in Mount Pleasant,Hot tub+Jacuzzi+Games+Private Tennis Court+,48,1,4.75,1,Mount Pleasant,44,43
 131,Private room in Salt Lake City,Mother-in-law apartment bedroom #2,30,1,4.8,1,Salt Lake City,15,34
 132,Apartment in Payson,Hollow Creek Haven,59,1,5.0,0,Payson,6,18
 133,Apartment in Orem,New Studio Suite with Juliet Balcony,45,1,4.9,1,Orem,41,36
+134,Farm stay in Eagle Mountain,Chick Inn LUXURIOUS EXPERIENCE & all the extras!!!,195,1,4.99,1,Eagle Mountain,101,50
+135,Tiny home in Mantua,Homestead on the Hill.  Lakeview Cabin/Tiny Home.,44,2,4.68,0,Mantua,19,49
 136,Shipping container in Teasdale,Lavish Shipping Container Retreat!  2BED/2BATH,360,3,4.98,1,Teasdale,50,46
+137,Private room in American Fork,Private room-Sundance,31,1,4.85,1,American Fork,39,21
 138,Private room in Provo,King Size Master Suite near park and downtown,257,1,4.92,1,Provo,309,45
 139,Guest suite in Hurricane,Studio Apt. with Trailer Parking,810,1,,0,Hurricane,,32
+140,Villa in West Jordan,Welcome to this 1 bedroom villa with a heated pool,398,3,4.84,1,West Jordan,70,50
+141,Private room in American Fork,Private room-Sundance,279,1,4.85,1,American Fork,39,21
 142,Guest suite in Ivins,RELAX with your own private scenery of SNOW CANYON,2148,1,4.89,1,Ivins,18,50
+143,Cabin in Summit County,Beautiful Oakley Cabin w/ Private Hot Tub & Views!,1328,7,4.91,1,Summit County,35,50
 144,Private room in Santaquin,Angel Room Peaceful Rest,200,1,4.92,1,Santaquin,37,24
+145,Tiny home in Beaver,Cozy Scenic Tiny House - Desert Views & Starlink,720,2,4.99,1,Beaver,242,48
 146,Villa in Draper,Draper Castle Luxury Apartment,1175,2,4.91,1,Draper,174,30
+147,Guesthouse in Orem,Brand new guesthouse close to Sundance Ski Resort,742,3,4.95,0,Orem,19,49
 148,Home in Provo,Queen Bed.|Enormous backyard space!|Private Patio.,1022,2,5.0,0,Provo,17,50
 149,Cabin in Teasdale,"Mountains To Deserts, You'll find it all here!",1229,4,4.93,1,Teasdale,168,46
 150,Private room in Saratoga Springs,Clean Private room,200,1,5.0,0,Saratoga Springs,5,18
 151,Home in Alpine,Spacious Basement in Alpine,770,2,,0,Alpine,,27
 152,Private room in Price,Cedar Mountain,165,1,4.77,1,Price,13,14
+153,Guest suite in Sundance,Stunning Mountain Suite on Seven Acres at Sundance,1101,2,4.99,1,Sundance,118,50
 154,Private room in Provo,Restored Cozy Room Downtown One of a Kind Home,264,1,4.83,1,Provo,58,46
 155,Guest suite in Spanish Fork,Kicks On 6 - Basement Apt. Just Off HWY 6 & I15,571,3,4.91,1,Spanish Fork,115,47
+156,Private room in Lehi,"Irresistible, cozy and elegant room. /4",211,1,4.81,0,Lehi,43,39
 157,Earthen home in Oljato-Monument Valley,Navajo octagon earth hogan home,676,7,4.67,0,Oljato-Monument Valley,489,31
 158,Home in Mendon,"The Family Barn is a new, beautiful home.",1692,8,4.98,1,Mendon,116,41
+159,Cabin in Summit County,Beautiful Oakley Cabin w/ Private Hot Tub & Views!,1328,7,4.91,1,Summit County,35,50
 160,Home in Vernal,Willow House,645,8,5.0,0,Vernal,4,12
+161,Guest suite in Provo,Private Suite just minutes from hiking and skiing,559,1,4.91,0,Provo,11,49
 162,Private room in Orem,Snug Comfortable Room,171,1,4.84,1,Orem,62,21
+163,Home in Salt Lake City,The Love House,1426,1,,0,Salt Lake City,,14
 164,Cabin in Kanab,"Million Stars, 10 acres, Central to Zion & Bryce!",1077,3,4.44,0,Kanab,100,49
 165,Home in Lehi,Cozy Walkout Basement Apartment,305,1,5.0,0,Lehi,18,31
 166,Cottage in Heber City,Caretaker's Cottage at London Spring Ranch,719,2,4.92,1,Heber City,104,42
@@ -142,30 +176,38 @@ Crawford Mountain Cabin",160,2,5.0,1,Randolph,13,50
 173,Cabin in Salt Lake City,Cabin on Big Cottonwood River,249,4,5.0,1,Salt Lake City,10,29
 174,Hotel room in Escalante,"Modern Cabin, Resort Amenities, Close to Bryce Cyn",247,2,4.91,1,Escalante,305,50
 175,Guesthouse in Morgan,"Peaceful, Cozy Ski Chalet with majestic views",81,3,5.0,1,Morgan,75,45
+176,Private room in Salt Lake City,Mother-in-law apartment bedroom #2,30,1,4.8,1,Salt Lake City,15,34
 177,Tiny home in Tooele,Cute & Cozy Tiny House,87,1,4.96,1,Tooele,89,22
 178,Tiny home in Monroe,La Casita on Main St in Monroe,66,1,4.93,1,Monroe,258,30
+179,Private room in Orem,Small basement bedroom. Shared bath,30,1,4.0,0,Orem,4,35
 180,Home in Orem,Private Guest House *KingBed*,89,2,5.0,0,Orem,5,29
 181,Condo in Park City,Cozy Resort by the Slopes!,50,1,4.68,0,Park City,471,26
+182,Private room in Price,Cedar Mountain,165,1,4.77,1,Price,13,14
 183,Cabin in Duck Creek Village,Cozy Cedar Mountain Cabin,793,3,4.8,0,Duck Creek Village,247,25
 184,Cabin in Hildale,South Zion Glamping Cabin,399,1,4.58,0,Hildale,266,25
 185,Camper/RV in Blanding,Arrowhead Campground in Monument Valley,254,7,4.82,0,Blanding,17,39
 186,Cabin in Antimony,Unique Tin Cabin w/Mtn Views in Antimony!,767,1,4.83,1,Antimony,75,41
+187,Vacation home in Mapleton,"Brand New, Spacious & Modern Apt",582,3,5.0,0,Mapleton,6,32
 188,Apartment in Orem,"Brand new, lake side apartment!",913,3,,0,Orem,,31
 189,Guest suite in Ogden,Luxury Loft on Historic 25th St,530,1,4.97,1,Ogden,64,31
-190,Private room in Lehi,Rest comfortably in a cozy and modern style room/1,235,1,4.81,0,Lehi,42,50
-191,Apartment in Helper,Historic Conoco Filling Station,1113,3,4.95,1,Helper,181,31
-192,Cottage in Green River,Cute and cozy historic home in Green River Utah,765,2,4.66,0,Green River,134,47
-193,Cabin in Pine Valley,"Secluded Cozy Cabin, Pine Valley UT Goggins Glend",964,6,4.89,1,Pine Valley,75,49
-194,Home in Smithfield,Beautiful 3000+ sq ft Private Basement w/Theater,767,5,5.0,1,Smithfield,325,48
-195,Cabin in Sterling,NEW! Rustic Sterling Cabin: Walk to Palisade Lake!,2175,1,4.75,1,Sterling,16,50
-197,Home in Oljato-Monument Valley,"Beautiful views, Red Rock Monument surroundings.",685,3,4.18,0,Oljato-Monument Valley,11,48
-198,Home in Draper,Luxury Retreat with Spectacular Views,2545,9,,1,Draper,,37
-199,Dome in Hanksville,Capitol Reef Dome #2,736,1,,0,Hanksville,,20
-200,Cottage in Spring City,"Three Cedars Cottage in Spring City, UT",698,4,4.87,1,Spring City,223,39
-201,Home in Lindon,"New 3 Bedroom Home in Lindon, UT near Orem and PG",822,3,4.84,1,Lindon,49,49
-202,Dome in Monticello,Dome 9 - Canyon Rim Domes,1061,1,5.0,1,Monticello,16,25
-203,Cabin in Alton,Hidden Valley Cabin #1-2,423,3,4.75,0,Alton,223,24
-204,Dome in Huntsville,Dome Home on the Hill,1951,4,4.93,1,Huntsville,30,21
-206,Farm stay in Manti,Layton's Loft Bed and Breakfast,479,2,4.94,1,Manti,701,31
-207,Cottage in Vernal,The Cottage - 1Bedroom/2Bed -Sleeps Four,542,2,4.9,1,Vernal,197,40
-208,Private room in Escalante,BUNKHOUSE,325,1,4.93,1,Escalante,479,9
+190,Private room in American Fork,Cozy Private Double Twin Bedroom!,249,3,,0,American Fork,,33
+191,Private room in Lehi,Rest comfortably in a cozy and modern style room/1,235,1,4.81,0,Lehi,42,50
+192,Apartment in Helper,Historic Conoco Filling Station,1113,3,4.95,1,Helper,181,31
+193,Cottage in Green River,Cute and cozy historic home in Green River Utah,765,2,4.66,0,Green River,134,47
+194,Cabin in Pine Valley,"Secluded Cozy Cabin, Pine Valley UT Goggins Glend",964,6,4.89,1,Pine Valley,75,49
+195,Home in Smithfield,Beautiful 3000+ sq ft Private Basement w/Theater,767,5,5.0,1,Smithfield,325,48
+196,Cabin in Sterling,NEW! Rustic Sterling Cabin: Walk to Palisade Lake!,2175,1,4.75,1,Sterling,16,50
+197,Tiny home in Monroe,La Casita on Main St in Monroe,417,1,4.93,1,Monroe,258,30
+198,Home in Oljato-Monument Valley,"Beautiful views, Red Rock Monument surroundings.",685,3,4.18,0,Oljato-Monument Valley,11,48
+199,Home in Draper,Luxury Retreat with Spectacular Views,2545,9,,1,Draper,,37
+200,Dome in Hanksville,Capitol Reef Dome #2,736,1,,0,Hanksville,,20
+201,Cottage in Spring City,"Three Cedars Cottage in Spring City, UT",698,4,4.87,1,Spring City,223,39
+202,Home in Lindon,"New 3 Bedroom Home in Lindon, UT near Orem and PG",822,3,4.84,1,Lindon,49,49
+203,Dome in Monticello,Dome 9 - Canyon Rim Domes,1061,1,5.0,1,Monticello,16,25
+204,Cabin in Alton,Hidden Valley Cabin #1-2,423,3,4.75,0,Alton,223,24
+205,Dome in Huntsville,Dome Home on the Hill,1951,4,4.93,1,Huntsville,30,21
+206,Guest suite in Bluffdale,Entire Basement Studio Apartment!,371,1,4.85,1,Bluffdale,314,33
+207,Farm stay in Manti,Layton's Loft Bed and Breakfast,479,2,4.94,1,Manti,701,31
+208,Cottage in Vernal,The Cottage - 1Bedroom/2Bed -Sleeps Four,542,2,4.9,1,Vernal,197,40
+209,Private room in Escalante,BUNKHOUSE,325,1,4.93,1,Escalante,479,9
+210,Private room in Provo,Downtown Renovated Room in a One of a Kind Home,294,1,4.73,1,Provo,73,47
